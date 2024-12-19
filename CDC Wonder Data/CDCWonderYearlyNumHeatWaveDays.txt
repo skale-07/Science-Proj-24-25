@@ -1,0 +1,209 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Heat Wave Days Based on Daily Maximum Temperature
+	"Apache County, AZ"	"04001"	"2000"	"2000"	11
+	"Apache County, AZ"	"04001"	"2001"	"2001"	4
+	"Apache County, AZ"	"04001"	"2002"	"2002"	19
+	"Apache County, AZ"	"04001"	"2003"	"2003"	21
+	"Apache County, AZ"	"04001"	"2004"	"2004"	0
+	"Apache County, AZ"	"04001"	"2005"	"2005"	10
+	"Apache County, AZ"	"04001"	"2006"	"2006"	11
+	"Apache County, AZ"	"04001"	"2007"	"2007"	10
+	"Apache County, AZ"	"04001"	"2008"	"2008"	3
+	"Apache County, AZ"	"04001"	"2009"	"2009"	13
+	"Apache County, AZ"	"04001"	"2010"	"2010"	6
+"Total"	"Apache County, AZ"	"04001"			Not Applicable
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	5
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	2
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	14
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	16
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	2
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	19
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	7
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	11
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	6
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	19
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	6
+"Total"	"Cochise County, AZ"	"04003"			Not Applicable
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	11
+	"Coconino County, AZ"	"04005"	"2001"	"2001"	8
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	20
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	19
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	0
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	11
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	13
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	13
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	2
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	7
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	6
+"Total"	"Coconino County, AZ"	"04005"			Not Applicable
+	"Gila County, AZ"	"04007"	"2000"	"2000"	14
+	"Gila County, AZ"	"04007"	"2001"	"2001"	4
+	"Gila County, AZ"	"04007"	"2002"	"2002"	15
+	"Gila County, AZ"	"04007"	"2003"	"2003"	19
+	"Gila County, AZ"	"04007"	"2004"	"2004"	0
+	"Gila County, AZ"	"04007"	"2005"	"2005"	9
+	"Gila County, AZ"	"04007"	"2006"	"2006"	13
+	"Gila County, AZ"	"04007"	"2007"	"2007"	14
+	"Gila County, AZ"	"04007"	"2008"	"2008"	2
+	"Gila County, AZ"	"04007"	"2009"	"2009"	21
+	"Gila County, AZ"	"04007"	"2010"	"2010"	6
+"Total"	"Gila County, AZ"	"04007"			Not Applicable
+	"Graham County, AZ"	"04009"	"2000"	"2000"	10
+	"Graham County, AZ"	"04009"	"2001"	"2001"	2
+	"Graham County, AZ"	"04009"	"2002"	"2002"	9
+	"Graham County, AZ"	"04009"	"2003"	"2003"	21
+	"Graham County, AZ"	"04009"	"2004"	"2004"	0
+	"Graham County, AZ"	"04009"	"2005"	"2005"	10
+	"Graham County, AZ"	"04009"	"2006"	"2006"	10
+	"Graham County, AZ"	"04009"	"2007"	"2007"	13
+	"Graham County, AZ"	"04009"	"2008"	"2008"	2
+	"Graham County, AZ"	"04009"	"2009"	"2009"	19
+	"Graham County, AZ"	"04009"	"2010"	"2010"	8
+"Total"	"Graham County, AZ"	"04009"			Not Applicable
+	"Greenlee County, AZ"	"04011"	"2000"	"2000"	9
+	"Greenlee County, AZ"	"04011"	"2001"	"2001"	2
+	"Greenlee County, AZ"	"04011"	"2002"	"2002"	15
+	"Greenlee County, AZ"	"04011"	"2003"	"2003"	20
+	"Greenlee County, AZ"	"04011"	"2004"	"2004"	0
+	"Greenlee County, AZ"	"04011"	"2005"	"2005"	10
+	"Greenlee County, AZ"	"04011"	"2006"	"2006"	7
+	"Greenlee County, AZ"	"04011"	"2007"	"2007"	8
+	"Greenlee County, AZ"	"04011"	"2008"	"2008"	0
+	"Greenlee County, AZ"	"04011"	"2009"	"2009"	20
+	"Greenlee County, AZ"	"04011"	"2010"	"2010"	11
+"Total"	"Greenlee County, AZ"	"04011"			Not Applicable
+	"La Paz County, AZ"	"04012"	"2000"	"2000"	8
+	"La Paz County, AZ"	"04012"	"2001"	"2001"	6
+	"La Paz County, AZ"	"04012"	"2002"	"2002"	4
+	"La Paz County, AZ"	"04012"	"2003"	"2003"	10
+	"La Paz County, AZ"	"04012"	"2004"	"2004"	3
+	"La Paz County, AZ"	"04012"	"2005"	"2005"	10
+	"La Paz County, AZ"	"04012"	"2006"	"2006"	16
+	"La Paz County, AZ"	"04012"	"2007"	"2007"	7
+	"La Paz County, AZ"	"04012"	"2008"	"2008"	11
+	"La Paz County, AZ"	"04012"	"2009"	"2009"	21
+	"La Paz County, AZ"	"04012"	"2010"	"2010"	10
+"Total"	"La Paz County, AZ"	"04012"			Not Applicable
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	10
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	5
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	6
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	10
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	3
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	9
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	14
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	11
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	13
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	21
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	11
+"Total"	"Maricopa County, AZ"	"04013"			Not Applicable
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	8
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	5
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	17
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	16
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	3
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	11
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	14
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	9
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	7
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	8
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	6
+"Total"	"Mohave County, AZ"	"04015"			Not Applicable
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	11
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	7
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	20
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	20
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	0
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	10
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	12
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	12
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	3
+	"Navajo County, AZ"	"04017"	"2009"	"2009"	12
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	6
+"Total"	"Navajo County, AZ"	"04017"			Not Applicable
+	"Pima County, AZ"	"04019"	"2000"	"2000"	8
+	"Pima County, AZ"	"04019"	"2001"	"2001"	2
+	"Pima County, AZ"	"04019"	"2002"	"2002"	3
+	"Pima County, AZ"	"04019"	"2003"	"2003"	15
+	"Pima County, AZ"	"04019"	"2004"	"2004"	0
+	"Pima County, AZ"	"04019"	"2005"	"2005"	11
+	"Pima County, AZ"	"04019"	"2006"	"2006"	13
+	"Pima County, AZ"	"04019"	"2007"	"2007"	16
+	"Pima County, AZ"	"04019"	"2008"	"2008"	12
+	"Pima County, AZ"	"04019"	"2009"	"2009"	22
+	"Pima County, AZ"	"04019"	"2010"	"2010"	11
+"Total"	"Pima County, AZ"	"04019"			Not Applicable
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	10
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	5
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	9
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	13
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	0
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	11
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	13
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	14
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	10
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	21
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	7
+"Total"	"Pinal County, AZ"	"04021"			Not Applicable
+	"Santa Cruz County, AZ"	"04023"	"2000"	"2000"	5
+	"Santa Cruz County, AZ"	"04023"	"2001"	"2001"	0
+	"Santa Cruz County, AZ"	"04023"	"2002"	"2002"	16
+	"Santa Cruz County, AZ"	"04023"	"2003"	"2003"	14
+	"Santa Cruz County, AZ"	"04023"	"2004"	"2004"	0
+	"Santa Cruz County, AZ"	"04023"	"2005"	"2005"	18
+	"Santa Cruz County, AZ"	"04023"	"2006"	"2006"	10
+	"Santa Cruz County, AZ"	"04023"	"2007"	"2007"	14
+	"Santa Cruz County, AZ"	"04023"	"2008"	"2008"	9
+	"Santa Cruz County, AZ"	"04023"	"2009"	"2009"	23
+	"Santa Cruz County, AZ"	"04023"	"2010"	"2010"	8
+"Total"	"Santa Cruz County, AZ"	"04023"			Not Applicable
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	8
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	5
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	13
+	"Yavapai County, AZ"	"04025"	"2003"	"2003"	18
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	0
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	8
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	14
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	13
+	"Yavapai County, AZ"	"04025"	"2008"	"2008"	5
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	17
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	6
+"Total"	"Yavapai County, AZ"	"04025"			Not Applicable
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	9
+	"Yuma County, AZ"	"04027"	"2001"	"2001"	5
+	"Yuma County, AZ"	"04027"	"2002"	"2002"	2
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	10
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	6
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	10
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	15
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	11
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	13
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	19
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	14
+"Total"	"Yuma County, AZ"	"04027"			Not Applicable
+"Total"					Not Applicable
+"---"
+"Dataset: Number of Heat Wave Days in May-September (1981-2010)"
+"Query Parameters:"
+"Title: CDCWonderYearlyNumHeatWaveDays.txt"
+"States: Arizona (04)"
+"Year: 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010"
+"Group By: County; Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/HeatWaveDays.html for more information."
+"---"
+"Query Date: Nov 18, 2024 12:55:04 PM"
+"---"
+"Suggested Citation: National Climate Assessment - Extreme Heat Events: Heat Wave Days in May - September for years 1981-2010 on"
+"CDC WONDER Online Database, released 2015. Accessed at http://wonder.cdc.gov/NCA-heatwavedays-historic.html on Nov 18, 2024"
+"12:55:04 PM"
+"---"
+Caveats:
+"1. About county-level population estimates: population figures for 1981-1989 are intercensal estimates of the July 1 resident"
+"population of the United States; population figures for 1990 are modified age-race-sex (MARS) April 1 census counts; population"
+"figures for 1991-1999 are from the 1990-1999 series of bridged-race intercensal estimates of the July 1 resident population;"
+"population figures for 2000 and 2010 are bridged-race April 1 census counts; and population figures for 2001-2009 are from the"
+"revised 2000-2009 series of bridged-race intercensal estimates of the July 1 resident population."
+"2. The number of heat wave days is computed at the county level, the summary totals show the number of heat wave days per county"
+"per year. When the geographic area spans more than one county, an extreme heat event is counted for each county where measurable"
+"observations that met the heat event definition occurred. Use caution when interpreting data representing aggregated counties."
